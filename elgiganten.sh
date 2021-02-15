@@ -2,7 +2,7 @@
 RED='\033[0;31m'
 GREEN='\033[0;32m'
 
-cd /home/mathias.sorensen/ps5
+cd $HOME/ps5
 
 wget -O playstation-5-ps5 --no-check-certificate https://www.elgiganten.dk/product/gaming/konsoller/playstation-konsoller/220276/playstation-5-ps5
 
